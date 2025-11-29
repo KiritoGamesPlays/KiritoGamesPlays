@@ -10,5 +10,31 @@ Meu foco principal está em **Node.js**, **bancos de dados**, **integração de 
 
 ---
 
-### 🌐 Meu Portfólio  
+## 🌐 Meu Portfólio  
 🔗 **Acesse:** [adssousag.is-a.dev](http://adssousag.is-a.dev)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔹 TriniumHost  
+**Descrição:** Uma empresa de hospedagem acessível com planos gratuitos e premium, focada em performance e acessibilidade para todos.  
+🔗 **Site:** https://triniumhost.com/
+
+---
+
+### 🔹 KiritoAPI  
+**Descrição:** API de informações rápidas e versáteis para diversos usos, oferecendo dados de forma prática para integrações modernas.  
+🔗 **Acessar API:** https://kiritoapi.adssousag.is-a.dev/
+
+---
+
+### 🔹 kirito.db.remote  
+**Descrição:** Pacote NPM para armazenamento remoto de dados com praticidade, integração fácil e segurança.  
+🔗 **NPM:** https://www.npmjs.com/package/kirito.db.remote
+
+---
+
+### 🔹 Asunary  
+**Descrição:** Bot de Discord multifuncional, trazendo automação, música e utilidades para servidores de todos os tamanhos.  
+🔗 **Invite:** https://discord.com/oauth2/authorize?client_id=1291153652836470906&permissions=8&integration_type=0&scope=bot
