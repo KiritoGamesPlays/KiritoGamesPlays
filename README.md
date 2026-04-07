@@ -1,4 +1,4 @@
-<img src="http://adssousag.is-a.dev/assets/img/ee56ae33e04886f60b5c597bb08fa78b.png" width="100%" />
+<img src="http://adssousag.is-a.dev/public/assets/img/ee56ae33e04886f60b5c597bb08fa78b.png" width="100%" />
 
 ## 👋 Sobre mim
 
