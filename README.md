@@ -18,7 +18,7 @@ Meu foco principal está em **Node.js**, **bancos de dados**, **integração de 
 ## 🚀 Projetos em Destaque
 
 ### 🔹 TriniumHost  
-**Descrição:** Uma empresa de hospedagem acessível com planos gratuitos e premium, focada em performance e acessibilidade para todos.  
+**Descrição:** Uma empresa de hospedagem acessível com planos premium, focada em performance e acessibilidade para todos.  
 🔗 **Site:** https://triniumhost.com/
 
 ---
