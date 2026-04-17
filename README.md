@@ -1,4 +1,3 @@
-<img src="https://adssousag.is-a.dev/public/assets/img/ee56ae33e04886f60b5c597bb08fa78b.webp" width="100%" />
 
 ## 👋 Sobre mim
 
@@ -34,3 +33,5 @@ Fala! Sou o Arthur, desenvolvedor apaixonado por transformar ideias em código. 
 ### 🔹 Asunary  
 **Descrição:** Bot de Discord multifuncional, trazendo automação, música e utilidades para servidores de todos os tamanhos.  
 🔗 **Invite:** https://discord.com/oauth2/authorize?client_id=1291153652836470906&permissions=8&integration_type=0&scope=bot
+
+<img src="https://adssousag.is-a.dev/public/assets/img/ee56ae33e04886f60b5c597bb08fa78b.webp" width="100%" />
